@@ -1,0 +1,27 @@
+HTML Assignments
+
+1)Assignment_01 (Basic HTML Structure)
+2)Assignment_02 (Basic HTML Structure using All Formatting Element)
+3)Assignment_03 (Basic HTML Ecommerce Website)
+4)Assignment_04 (Basic HTML Ecommerce Website with using Image)
+5)Assignment_05 (HTML Ecommerce Website)
+6)Assignment_06 (Basic HTML Table)
+7)Assignment_07 (HTML Chess Board)
+8)Assignment_08 (Basic HTML Student Registration Form)
+
+CSS Assignments
+
+1)Assignment_01 (Periodic Table)
+2)Assignment_02 (Amazon Store Clone UI)
+3)Assignment_03 (Login Page UI)
+4)Assignment_04 (Contact us Page UI)
+5)Assignment_05 (Website Layout UI)
+6)Assignment_06 (Profile Card)
+7)Assignment_07 (Apple Store Clone UI)
+8)Assignment_08 (Flexbox Froggy Game-All Level Solution)
+9)Assignment_09 (Facebook Login Page UI)
+10)Assignment_10 (Saylani Website Clone UI)
+11)Assignment_11 (Grid Garden Game-All Level Solution)
+
+12)Assignment_12 (Facebook Signup Page UI)
+    https://fb-signup-page-ui.netlify.app/

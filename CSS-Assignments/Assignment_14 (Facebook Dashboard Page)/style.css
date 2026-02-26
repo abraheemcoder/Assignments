@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #F2F4F7;
+}
+
+nav {
+    background-color: white;
+    height: 56px;
+}
+
+.logo-input {
+    width: 320px;
+    height: 100%;
+}
+
+.search-input {
+    background-color: #F0F2F5;
+    height: 40px;
+    width: 240px;
+    border-radius: 30px;
+    padding-left: px;
+}
+
+.search-input input {
+    width: 212px;
+    height: 100%;
+    border: none;
+    /* border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px; */
+    
+}
