@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+
+/* Main */
+.main-container {
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f4f7;
+}
+
+/* Main LeftBox */
+.leftbox {
+    width: 500px;
+    margin-bottom: 110px;
+    margin-right: 70px;
+}
+
+.leftbox img {
+    width: 320px;
+    height: 106px;
+    margin-left: -28px;
+}
+
+.leftbox p {
+    font-size: 28px;
+    line-height: 32px;
+    color: #1c1e21;
+
+}
+
+/* Main RightBox */
+.rightbox {
+    width: 396px;
+}
+
+.rb-login {
+    background-color: white;
+    width: 100%;
+    padding: 16px;
+    box-shadow: 0 2px 4px #0000001a, 0 8px 16px #0000001a;
+    border-radius: 8px;
+}
+
+input {
+    width: 100%;
+    font-size: 17px;
+    color: #1d2129;
+    padding: 14px 16px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    outline: none;
+    margin-bottom: 14px;
+}
+
+input:focus {
+    border: 2px solid #1877F2;
+    border-radius: 6px;
+}
+
+.loginbtn  button{
+    width: 100%;
+    height: 48px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #0866ff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 16px;
+}
+
+.loginbtn button:hover {
+    cursor: pointer;
+    background-color: #0867ffe3;
+}
+
+.fg-password {
+    text-align: center;
+}
+
+.fg-password a {
+    font-size: 14px;
+    color: #0866ff;
+    text-decoration: none;
+}
+
+.fg-password a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+.signupbtn button {
+    width: 54%;
+    height: 48px;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #42b72a;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 4px;
+    margin-left: 23%;
+    margin-right: 23%;
+}
+
+.signupbtn button:hover {
+    cursor: pointer;
+    background-color: #24ac09;
+}
+
+.brand-page {
+    color: #1c1e21; 
+    font-size: 14px;
+    text-align: center;
+    margin-top: 28px;
+}
+
+.brand-page a {
+    color: #1c1e21;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.brand-page a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+
+}
+.footer-container {
+    width: 980px;
+    background-color: white;
+    font-size: 12px;
+    margin-top: 20px;    
+}
+
+.lang li{
+    padding-right: 10px;
+    margin-top: 1%;
+}
+
+ul {
+    color: #737373;
+    display: flex;
+    list-style: none;
+}
+
+.links li{
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.plusbtn {
+    font-weight: bold;
+    font-size: 17px;
+    padding: 0 8px;
+
+}
+
+.footer-container a {
+    color: #737373;
+    text-decoration: none;
+}
+
+.footer-hr {
+    margin: 0;
+    margin-top: 6px;
+    margin-bottom: 10px;
+}
+
+.copyright {
+    margin-top: 20px;
+}
