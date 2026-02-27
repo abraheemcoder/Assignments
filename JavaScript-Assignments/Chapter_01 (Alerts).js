@@ -1,18 +1,14 @@
 // // Question_01
 // // Write a script to greet your website visitor using JS alert box.
 // // Answer:
-// console.log (
-//     alert ("Welcome to our website!");
-// );
+// alert ("Welcome to our website!");
 
 
 // // Question_02
 // // Write a script to display following message on your web page:
 // // Message: Error! Please enter a valid password.
 // // Answer:
-// console.log (
-//     alert ("Error! Please enter a valid password.");
-// );
+// alert ("Error! Please enter a valid password.");
 
 
 // // Question_03
@@ -20,9 +16,7 @@
 // // Message: Welcome to JS Land...
 // //          Happy Coding!
 // // Answer:
-// console.log (
-//     alert ("Welcome to JS Land...\nHappy Coding!");
-// );
+// alert ("Welcome to JS Land...\nHappy Coding!");
 
 
 // // Question_04
@@ -30,12 +24,8 @@
 // // Alert_01: Welcome to JS Land...
 // // Alert_02: Happy Coding!
 // // Answer:
-// console.log (
-//     alert("Welcome to JS Land...");
-// );
-// console.log (
-//     alert("Happy Coding!");
-// );
+// alert("Welcome to JS Land...");
+// alert("Happy Coding!");
 
 
 // // Question_05
