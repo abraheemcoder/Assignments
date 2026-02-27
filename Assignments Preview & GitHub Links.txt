@@ -36,38 +36,38 @@ HTML Assignments
 CSS Assignments
 
 1)Assignment_01 (Periodic Table)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-01-periodic-table.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_01%20(Periodic%20Table)
     
 2)Assignment_02 (Amazon Store Clone UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-02-amazon-store-clone-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_02%20(Amazon%20Store%20Clone%20UI)
     
 3)Assignment_03 (Login Page UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-03-login-page-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_03%20(Login%20Page%20UI)
     
 4)Assignment_04 (Contact Us Page UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-04-contact-us-page-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_04%20(Contact%20us%20Page%20UI)
     
 5)Assignment_05 (Website Layout UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-05-website-layout-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_05%20(Website%20Layout%20UI)
     
 6)Assignment_06 (Profile Card)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-06-profile-card.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_06%20(Profile%20Card)
     
 7)Assignment_07 (Apple Store Clone UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-07-aple-store-clone-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_07%20(Apple%20Store%20Clone%20UI)
     
 8)Assignment_08 (Flexbox Froggy Game-All Level Solution)
-    GitHub:
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_08%20(Flexbox%20Froggy%20Game-All%20Level%20Solution)
     
 9)Assignment_09 (Facebook Login Page UI)
-    Netlify:
+    Netlify: 
     GitHub:
     
 10)Assignment_10 (Saylani Website Clone UI)
@@ -75,20 +75,25 @@ CSS Assignments
     GitHub:
     
 11)Assignment_11 (Grid Garden Game-All Level Solution)
-    GitHub:
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_11%20(Grid%20Garden%20Game-All%20Level%20Solution)
     
 12)Assignment_12 (Facebook Signup Page UI)
-    Netlify: https://fb-signup-page-ui.netlify.app/
+    Netlify:
     GitHub:
     
 13)Assignment_13 (Website UI Using Bootstrap)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-13-website-ui-using-bootstrap.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_13%20(Website%20UI%20using%20Boostrap)
     
 14)Assignment_14 (Facebook Website Clone UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-14-fb-website-clone-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_14%20(Facebook%20Website%20Clone%20UI)
     
 15)Assignment_15 (Upwork Website Clone UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-15-upwork-clone-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_15%20(Upwork%20Clone%20UI)
+
+
+JavaScript-Assignments
+
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/JavaScript-Assignments
