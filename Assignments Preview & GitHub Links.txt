@@ -1,0 +1,94 @@
+HTML Assignments
+
+1)Assignment_01 (Basic HTML Structure)
+    Netlify: https://ass-01-basic-html-structure.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_01%20(Basic%20HTML%20Structure)
+
+2)Assignment_02 (Basic HTML Structure using All Formatting Element)
+    Netlify: https://ass-02-b-html-s-using-a-formating-tag.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_02%20(Basic%20HTML%20Structure%20using%20All%20Formatting%20Element)
+
+3)Assignment_03 (Basic HTML Ecommerce Website)
+    Netlify: https://ass-03-basic-html-ecommerce-website.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_03%20(Basic%20HTML%20Ecommerce%20Website)
+
+4)Assignment_04 (Basic HTML Ecommerce Website with Image)
+    Netlify: https://ass-04-b-html-ecomerce-website-w-imag.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_04%20(Basic%20HTML%20Ecommerce%20Website%20with%20Image)
+    
+5)Assignment_05 (Only HTML Ecommerce Website)
+    Netlify: https://ass-05-only-html-ecommerce-website.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_05%20(Only%20HTML%20Ecommerce%20Website)
+    
+6)Assignment_06 (Only HTML Table)
+    Netlify: https://ass-06-only-html-table.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_06%20(Only%20HTML%20Table)
+    
+7)Assignment_07 (HTML Chess Board)
+    Netlify: https://ass-07-html-chess-board.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_07%20(HTML%20Chess%20Board)
+    
+8)Assignment_08 (Only HTML Student Registration Form)
+    Netlify: https://ass-08-o-html-student-registration-fo.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/a9739b88fae0a29822acf61866d3c4e40fcc6841/HTML-Assignments/Assignment_08%20(Only%20HTML%20Student%20Registration%20Form)
+    
+
+CSS Assignments
+
+1)Assignment_01 (Periodic Table)
+    Netlify:
+    GitHub:
+    
+2)Assignment_02 (Amazon Store Clone UI)
+    Netlify:
+    GitHub:
+    
+3)Assignment_03 (Login Page UI)
+    Netlify:
+    GitHub:
+    
+4)Assignment_04 (Contact Us Page UI)
+    Netlify:
+    GitHub:
+    
+5)Assignment_05 (Website Layout UI)
+    Netlify:
+    GitHub:
+    
+6)Assignment_06 (Profile Card)
+    Netlify:
+    GitHub:
+    
+7)Assignment_07 (Apple Store Clone UI)
+    Netlify:
+    GitHub:
+    
+8)Assignment_08 (Flexbox Froggy Game-All Level Solution)
+    GitHub:
+    
+9)Assignment_09 (Facebook Login Page UI)
+    Netlify:
+    GitHub:
+    
+10)Assignment_10 (Saylani Website Clone UI)
+    Netlify:
+    GitHub:
+    
+11)Assignment_11 (Grid Garden Game-All Level Solution)
+    GitHub:
+    
+12)Assignment_12 (Facebook Signup Page UI)
+    Netlify: https://fb-signup-page-ui.netlify.app/
+    GitHub:
+    
+13)Assignment_13 (Website UI Using Bootstrap)
+    Netlify:
+    GitHub:
+    
+14)Assignment_14 (Facebook Website Clone UI)
+    Netlify:
+    GitHub:
+    
+15)Assignment_15 (Upwork Website Clone UI)
+    Netlify:
+    GitHub:
