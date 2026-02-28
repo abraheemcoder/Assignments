@@ -37,7 +37,8 @@
 
 // // Question_06
 // // Make use of alerts in your new/existing HTML & CSS project.
-// Answer in folder: Chapter_01 (Question 06 & 07).
+// Answer in Repo: Chapter_01 (Question 06 & 07).
+// https://github.com/abraheemcoder/Web-Dev-Assignments/tree/73f6e2a428c5cd0451c76bb696ad006b8a5fc209/JavaScript-Assignments/Chapter_01%20(Question%2006%20%26%2007)
 
 
 // // Question_07

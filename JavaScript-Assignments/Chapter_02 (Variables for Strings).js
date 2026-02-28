@@ -99,12 +99,12 @@
 // document.write(msg);
 
 // // Using innerHTML (Recommended Method)
-// // Answer in folder: Chapter_02 (Question 08 & 09).
+// // Answer in Repo: Chapter_02 (Question 08 & 09).
 // https://github.com/abraheemcoder/Web-Dev-Assignments/tree/0d808db401c7293446ecd02cb00f037a5a910c00/JavaScript-Assignments/Chapter_02%20(Question%2008%20%26%2009)
 
 
 // // Question_09
 // // Store the following string in a variable and show in alert and browser through JS.
 // // String: "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"
-// // Answer in folder: Chapter_02 (Question 08 & 09).
+// // Answer in Repo: Chapter_02 (Question 08 & 09).
 // https://github.com/abraheemcoder/Web-Dev-Assignments/tree/0d808db401c7293446ecd02cb00f037a5a910c00/JavaScript-Assignments/Chapter_02%20(Question%2008%20%26%2009)
