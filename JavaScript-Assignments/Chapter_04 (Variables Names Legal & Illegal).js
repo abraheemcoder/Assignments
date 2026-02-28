@@ -23,11 +23,12 @@
 // let @price;    // Special character not allowed
 
 
-// Question_03
-// Display this in your browser 
-// a) A starting heading “Rules for naming JS variables”.
-// b) Variable names can only contain ______, ______, ______ and ______. For example $my_1stVariable 
-// c) Variables must begin with a ______, ______ or _____. For example $user, _user or user 
-// d) Variable names are case _________.
-// e) Variable names should not be JS _________.
-// Answer in Repo: Chapter_04 (Question 03)
+// // Question_03
+// // Display this in your browser 
+// // a) A starting heading “Rules for naming JS variables”.
+// // b) Variable names can only contain ______, ______, ______ and ______. For example $my_1stVariable 
+// // c) Variables must begin with a ______, ______ or _____. For example $user, _user or user 
+// // d) Variable names are case _________.
+// // e) Variable names should not be JS _________.
+// // Answer in Repo: Chapter_04 (Question 03)
+// https://github.com/abraheemcoder/Web-Dev-Assignments/tree/71aee957a6cedf9975b78e26d0af0a93a9d6a1bc/JavaScript-Assignments/Chapter_04%20(Question%2003)
