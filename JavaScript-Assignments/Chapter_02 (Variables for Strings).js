@@ -83,22 +83,21 @@
 // // Declare a variable called book & give it the value “A smarter way to learn JavaScript”. Display the following message in an alert box:
 // // Message: I am trying to learn from the book: 'A smarter way to learn JavaScript'
 // // Answer:
-// let book = "'A smarter way to learn JavaScript'"
-// alert("I am trying to learn from the book: '" + book)
+// let book = "'A smarter way to learn JavaScript'";
+// alert("I am trying to learn from the book: '" + book);
 
 
-// Querion 08
-// Write a script to display this message in browser through JS.
-// Message: Yah! I con write HTML content through JavaScript.
-// 2 Method: • Using document.write()
-//           • Using innerHTML (Recommended Method)
-// Answer: 
+// // Querion 08
+// // Write a script to display this message in browser through JS.
+// // Message: Yah! I can write HTML content through JavaScript.
+// // 2 Method: • Using document.write() 
+// //           • Using innerHTML (Recommended Method)
+// // Answer: 
 
-// // Using document.write()
-// let msg = "Yah! I con write HTML content through JavaScript."
-// document.write(msg)
+// // // Using document.write()  // Never Use This
+// let msg = "Yah! I can write HTML content through JavaScript.";
+// document.write(msg);
 
-
-// Using innerHTML (Recommended Method)
-// Answer in folder: Chapter_02 (Question 08).
-
+// // Using innerHTML (Recommended Method)
+// // Answer in folder: Chapter_02 (Question 08 & 09).
+// // https://github.com/abraheemcoder/Web-Dev-Assignments/tree/5aea0d81a7bb19f6cbb92ac59d39d84924e48e27/JavaScript-Assignments/Chapter_02%20(Question%2008)
