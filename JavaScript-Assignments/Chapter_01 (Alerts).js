@@ -46,4 +46,5 @@
 // // b. Body (before your page’s HTML)
 // // c.  Body (inside your page’s HTML)
 // // d. Body (after your page’s HTML)
-// Answer in folder: Chapter_01 (Question 06 & 07).
+// Answer in repo: Chapter_01 (Question 06 & 07). 
+// https://github.com/abraheemcoder/Web-Dev-Assignments/tree/73f6e2a428c5cd0451c76bb696ad006b8a5fc209/JavaScript-Assignments/Chapter_01%20(Question%2006%20%26%2007)

@@ -67,19 +67,19 @@ CSS Assignments
     GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_08%20(Flexbox%20Froggy%20Game-All%20Level%20Solution)
     
 9)Assignment_09 (Facebook Login Page UI)
-    Netlify: 
-    GitHub:
+    Netlify: https://ass-09-fb-login-page-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/73f6e2a428c5cd0451c76bb696ad006b8a5fc209/CSS-Assignments/Assignment_09%20(Facebook%20Login%20Page%20UI)
     
-10)Assignment_10 (Saylani Website Clone UI)
-    Netlify:
-    GitHub:
+10)Assignment_10 (Saylani Website Clone UI) -------
+    Netlify: https://ass-10-saylani-website-clone-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/73f6e2a428c5cd0451c76bb696ad006b8a5fc209/CSS-Assignments/Assignment_10%20(Saylani%20Website%20Clone%20UI)
     
 11)Assignment_11 (Grid Garden Game-All Level Solution)
     GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_11%20(Grid%20Garden%20Game-All%20Level%20Solution)
     
 12)Assignment_12 (Facebook Signup Page UI)
-    Netlify:
-    GitHub:
+    Netlify: https://ass-12-fb-signup-page-ui.netlify.app/
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/73f6e2a428c5cd0451c76bb696ad006b8a5fc209/CSS-Assignments/Assignment_12%20(Facebook%20Signup%20Page%20UI)
     
 13)Assignment_13 (Website UI Using Bootstrap)
     Netlify: https://ass-13-website-ui-using-bootstrap.netlify.app/
