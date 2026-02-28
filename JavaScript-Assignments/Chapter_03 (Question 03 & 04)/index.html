@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter_03 (Question 03 & 04)</title>
+</head>
+<body>
+    <!-- Question_03
+    Declare a variable called birthYear & assign to it your birth year. 
+    Show the following message in your browser:
+    Message: My birth year is 2006
+             Data type of my declared variable is number -->
+    <!-- Answer: -->
+    <p id="msg-q3-line1"></p>
+    <p id="msg-q3-line2"></p>
+    <script>
+        let birthYear = 2006;
+        let msgQ3Line1 = "My birth year is " + birthYear;
+        let msgQ3Line2 = "Data type of my declared variable is " + typeof birthYear;
+        document.getElementById("msg-q3-line1").innerHTML = msgQ3Line1;
+        document.getElementById("msg-q3-line2").innerHTML = msgQ3Line2;
+    </script>
+
+
+    <!-- Question_04
+    A visitor visits an online clothing store www.xyzClothing.com .
+    Write a script to store in variables the following information: 
+    a. Visitor’s name 
+    b. Product title 
+    c. Quantity i.e. how many products a visitor wants to order 
+    Show the following message in your browser: “John Doe ordered 5 T-shirt(s) on XYZ Clothing store”. -->
+    <!-- Answer: -->
+    <p id="msg-q4"></p>
+    <script>
+        let userName = "John Doe ";
+        let productName = " T-shirt(s) ";
+        let quantity = 5;
+        document.getElementById("msg-q4").innerHTML = userName + "ordered " + quantity + productName + "on XYZ Clothing store"
+    </script>
+</body>
+</html>
