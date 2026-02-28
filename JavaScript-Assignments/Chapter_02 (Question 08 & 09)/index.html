@@ -6,10 +6,35 @@
     <title>Chapter_02 (Question 08 & 09)</title>
 </head>
 <body>
-    <p id="msg"></p>
-
+    <!-- Quetion_08
+    Write a script to display this message in browser through JS.
+    Message: Yah! I can write HTML content through JavaScript. -->
+    <!-- 2 Method: • Using document.write() 
+                   • Using innerHTML (Recommended Method) -->
+    <!-- Answer: -->
+    <!-- Using document.write()  // Never Use This -->
     <script>
-        document.getElementById("msg").innerHTML = "Yah! I can write HTML content through JavaScript.";
+        let msg = "Yah! I can write HTML content through JavaScript.";
+        document.write(msg);
+    </script>
+    
+    <!-- Using innerHTML (Recommended Method) -->
+    <p id="msg"></p>
+    <script>
+        let message = "Yah! I can write HTML content through JavaScript.";
+        document.getElementById("msg").innerHTML = message;
+    </script>
+
+
+    <!-- Question_09
+    Store the following string in a variable and show in alert and browser through JS.
+    String: "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬" -->
+    <!-- Answer: -->
+    <p id="design"></p>
+    <script>
+        let design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";;
+        alert(design);
+        document.getElementById("design").innerHTML = design; 
     </script>
 </body>
 </html>

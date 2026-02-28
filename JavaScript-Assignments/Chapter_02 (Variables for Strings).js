@@ -79,7 +79,7 @@
 // // alert (email);
 
 
-// // Question 07
+// // Question_07
 // // Declare a variable called book & give it the value “A smarter way to learn JavaScript”. Display the following message in an alert box:
 // // Message: I am trying to learn from the book: 'A smarter way to learn JavaScript'
 // // Answer:
@@ -87,7 +87,7 @@
 // alert("I am trying to learn from the book: '" + book);
 
 
-// // Querion 08
+// // Querion_08
 // // Write a script to display this message in browser through JS.
 // // Message: Yah! I can write HTML content through JavaScript.
 // // 2 Method: • Using document.write() 
@@ -100,4 +100,11 @@
 
 // // Using innerHTML (Recommended Method)
 // // Answer in folder: Chapter_02 (Question 08 & 09).
-// // https://github.com/abraheemcoder/Web-Dev-Assignments/tree/5aea0d81a7bb19f6cbb92ac59d39d84924e48e27/JavaScript-Assignments/Chapter_02%20(Question%2008)
+// https://github.com/abraheemcoder/Web-Dev-Assignments/tree/0d808db401c7293446ecd02cb00f037a5a910c00/JavaScript-Assignments/Chapter_02%20(Question%2008%20%26%2009)
+
+
+// // Question_09
+// // Store the following string in a variable and show in alert and browser through JS.
+// // String: "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"
+// // Answer in folder: Chapter_02 (Question 08 & 09).
+// https://github.com/abraheemcoder/Web-Dev-Assignments/tree/0d808db401c7293446ecd02cb00f037a5a910c00/JavaScript-Assignments/Chapter_02%20(Question%2008%20%26%2009)
