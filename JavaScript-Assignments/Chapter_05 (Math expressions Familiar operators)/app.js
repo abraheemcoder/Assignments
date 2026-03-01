@@ -66,14 +66,14 @@ let remainder = secondValue % thirdValue;
 document.getElementById("question3-l").innerHTML = "The remainder is: " + remainder;
 
 
-// // Question_04
-// // Cost of one movie ticket is 600 PKR. 
-// // Write a script to store ticket price in a variable & calculate the cost of buying 5 tickets to a movie. 
-// // Example output: "Total cost to buy 5 tickets to a movie is 3000PKR"
-// // Answer:
-// let costOfOneTicket = 600;
-// let costOfFiveTickets = costOfOneTicket * 5;
-// document.getElementById("question4-cost").innerHTML = "Total cost to buy 5 tickets to a movie is " + costOfFiveTickets + "PKR";
+// Question_04
+// Cost of one movie ticket is 600 PKR. 
+// Write a script to store ticket price in a variable & calculate the cost of buying 5 tickets to a movie. 
+// Example output: "Total cost to buy 5 tickets to a movie is 3000PKR"
+// Answer:
+let costOfOneTicket = 600;
+let costOfFiveTickets = costOfOneTicket * 5;
+document.getElementById("question4-cost").innerHTML = "Total cost to buy 5 tickets to a movie is " + costOfFiveTickets + "PKR";
 
 
 // Question_05
