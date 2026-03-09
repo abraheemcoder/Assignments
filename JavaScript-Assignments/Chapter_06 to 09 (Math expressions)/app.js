@@ -21,8 +21,7 @@ let q1Br = "<br>"
 document.getElementById("q1a").innerHTML = "The value of a is: " + q1A + q1Br + "-----------------------";
 
 // Value of ++a
-let q1PlusPlusA = ++q1A;
-document.getElementById("q1++a").innerHTML = "The value of ++a is: " + q1PlusPlusA + q1Br + "Now the value of a is: " + q1PlusPlusA;
+document.getElementById("q1++a").innerHTML = "The value of ++a is: " + q1A + q1Br + "Now the value of a is: " + q1PlusPlusA;
 
 // Value of a++
 let q1APlusPlus = q1PlusPlusA++;
