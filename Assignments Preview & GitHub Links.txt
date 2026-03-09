@@ -34,6 +34,7 @@ HTML Assignments
     
 
 CSS Assignments
+    GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/61eb4545e55954aed6c56b5a2702d82985fed462/CSS-Assignments
 
 1)Assignment_01 (Periodic Table)
     Netlify: https://ass-01-periodic-table.netlify.app/
@@ -94,8 +95,9 @@ CSS Assignments
     GitHub: https://github.com/abraheemcoder/Web-Dev-Assignments/tree/ac5809a84c34b9d5e09957c23d71e70bcc0bd06d/CSS-Assignments/Assignment_15%20(Upwork%20Clone%20UI)
 
 16)Assignment_16 (Linkedin Clone)
-    Netlify:https://ass-16-linked-in-clone.netlify.app/
-    GitHub:https://github.com/abraheemcoder/Web-Dev-Assignments/tree/c0ac4c1f6f4ec4e9da6661c94566685484ce9c9d/CSS-Assignments/Assignment_16%20(Linkedin%20Clone)
+    GitHub: https://github.com/abraheemcoder/Linkedin-Clone.git
+    GitHub Live: https://abraheemcoder.github.io/Linkedin-Clone/
+    Netlify: https://ass-16-linked-in-clone.netlify.app/
 
 JavaScript-Assignments
 
