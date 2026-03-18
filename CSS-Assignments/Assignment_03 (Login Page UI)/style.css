@@ -59,7 +59,7 @@ button {
     padding: 12px 15px;
     margin-top: 15px;
     margin-bottom: 15px;
-    border-radius: 18px;
+    border-radius: 15px;
     font-size: 20px;
     background-color: #630f85;
     color: white;
@@ -81,4 +81,16 @@ p:hover {
     cursor: pointer;
     text-decoration: underline;
     color: blue;
+}
+
+/* Responsive layout */
+@media only screen and (max-width: 420px) and (min-width: 375px){
+    .container {
+        margin: 10px;
+    }
+}
+@media only screen and (max-width: 375px) and (min-width: 320px){
+    .container {
+        margin: 10px;
+    }
 }
