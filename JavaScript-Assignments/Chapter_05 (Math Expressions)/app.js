@@ -5,6 +5,8 @@
 let firstNumber = 3;
 let secondNumber = 5;
 let sum = firstNumber + secondNumber;
+
+// Output
 document.getElementById("question1-add").innerHTML = "Sum of 3 and 5 is " + sum;
 
 
@@ -16,18 +18,26 @@ let secondNum = 5;
 
 // Subtraction (-):
 let resultOfSubtraction = firstNum - secondNum;
+
+// Output
 document.getElementById("question2-minus").innerHTML = "Result of Subtraction is " + resultOfSubtraction;
 
 // Multiplication (*):
 let resultOfMultiplication = firstNum * secondNum;
+
+// Output
 document.getElementById("question2-multiple").innerHTML = "Result of Multiplication is " + resultOfMultiplication;
 
 // Division (/):
 let resultOfDivision = firstNum / secondNum;
+
+// Output
 document.getElementById("question2-divide").innerHTML = "Result of Division is " + resultOfDivision;
 
 // Modulus  (Remainder %):
 let resultOfModulus = firstNum % secondNum;
+
+// Output
 document.getElementById("question2-remain").innerHTML = "Result of Modulus is " + resultOfModulus;
 
 
